@@ -1,0 +1,7 @@
+C:\C#\namespace\namspace\namspace\bin\Debug\namspace.exe.config
+C:\C#\namespace\namspace\namspace\bin\Debug\namspace.exe
+C:\C#\namespace\namspace\namspace\bin\Debug\namspace.pdb
+C:\C#\namespace\namspace\namspace\obj\Debug\namspace.csproj.AssemblyReference.cache
+C:\C#\namespace\namspace\namspace\obj\Debug\namspace.csproj.CoreCompileInputs.cache
+C:\C#\namespace\namspace\namspace\obj\Debug\namspace.exe
+C:\C#\namespace\namspace\namspace\obj\Debug\namspace.pdb

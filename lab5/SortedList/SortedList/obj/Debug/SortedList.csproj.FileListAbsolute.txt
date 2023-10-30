@@ -1,0 +1,7 @@
+C:\C#\lab5\SortedList\SortedList\bin\Debug\SortedList.exe.config
+C:\C#\lab5\SortedList\SortedList\bin\Debug\SortedList.exe
+C:\C#\lab5\SortedList\SortedList\bin\Debug\SortedList.pdb
+C:\C#\lab5\SortedList\SortedList\obj\Debug\SortedList.csproj.AssemblyReference.cache
+C:\C#\lab5\SortedList\SortedList\obj\Debug\SortedList.csproj.CoreCompileInputs.cache
+C:\C#\lab5\SortedList\SortedList\obj\Debug\SortedList.exe
+C:\C#\lab5\SortedList\SortedList\obj\Debug\SortedList.pdb

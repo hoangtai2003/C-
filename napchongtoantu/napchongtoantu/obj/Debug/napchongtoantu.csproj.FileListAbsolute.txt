@@ -1,0 +1,7 @@
+C:\C#\napchongtoantu\napchongtoantu\obj\Debug\napchongtoantu.csproj.AssemblyReference.cache
+C:\C#\napchongtoantu\napchongtoantu\obj\Debug\napchongtoantu.csproj.CoreCompileInputs.cache
+C:\C#\napchongtoantu\napchongtoantu\bin\Debug\napchongtoantu.exe.config
+C:\C#\napchongtoantu\napchongtoantu\bin\Debug\napchongtoantu.exe
+C:\C#\napchongtoantu\napchongtoantu\bin\Debug\napchongtoantu.pdb
+C:\C#\napchongtoantu\napchongtoantu\obj\Debug\napchongtoantu.exe
+C:\C#\napchongtoantu\napchongtoantu\obj\Debug\napchongtoantu.pdb

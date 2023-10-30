@@ -1,0 +1,7 @@
+C:\C#\lab5\GenericList\GenericList\bin\Debug\GenericList.exe.config
+C:\C#\lab5\GenericList\GenericList\bin\Debug\GenericList.exe
+C:\C#\lab5\GenericList\GenericList\bin\Debug\GenericList.pdb
+C:\C#\lab5\GenericList\GenericList\obj\Debug\GenericList.csproj.AssemblyReference.cache
+C:\C#\lab5\GenericList\GenericList\obj\Debug\GenericList.csproj.CoreCompileInputs.cache
+C:\C#\lab5\GenericList\GenericList\obj\Debug\GenericList.exe
+C:\C#\lab5\GenericList\GenericList\obj\Debug\GenericList.pdb

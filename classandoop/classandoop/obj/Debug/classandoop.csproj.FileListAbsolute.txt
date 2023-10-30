@@ -1,0 +1,7 @@
+C:\C#\classandoop\classandoop\bin\Debug\classandoop.exe.config
+C:\C#\classandoop\classandoop\bin\Debug\classandoop.exe
+C:\C#\classandoop\classandoop\bin\Debug\classandoop.pdb
+C:\C#\classandoop\classandoop\obj\Debug\classandoop.csproj.AssemblyReference.cache
+C:\C#\classandoop\classandoop\obj\Debug\classandoop.csproj.CoreCompileInputs.cache
+C:\C#\classandoop\classandoop\obj\Debug\classandoop.exe
+C:\C#\classandoop\classandoop\obj\Debug\classandoop.pdb
